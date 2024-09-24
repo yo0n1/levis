@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+}
+.texto{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    color: black;
+
+}
+.texto> h1{
+    color: black;
+    text-align: center;
+}
+.titulo{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
